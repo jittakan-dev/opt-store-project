@@ -6,7 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="pickypick" />
+        <module name="pickypick_store" />
         <module name="webapp-jpa-ejb" />
       </profile>
     </annotationProcessing>
